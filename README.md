@@ -1,5 +1,7 @@
 ## Welcome I'm Evian 👋
 
+![](https://komarev.com/ghpvc/?username=evtyy&style=plastic&color=98642C)
+
 <!--
 **evtyy/evtyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
