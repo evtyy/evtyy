@@ -1,4 +1,4 @@
-## Welcome I'm Evian 👋
+## Hello I'm Evian 👽
 
 ![](https://komarev.com/ghpvc/?username=evtyy&style=plastic&color=98642C)
 
